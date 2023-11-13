@@ -1,0 +1,12 @@
+.App {
+  background-color: rgb(60, 59, 59);
+  min-height: 100vh;
+}
+
+.Time {
+  color: aliceblue;
+  font-size: 100px;
+  position: absolute;
+  top: 200px;
+  left: 500px;
+}
