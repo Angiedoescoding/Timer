@@ -18,9 +18,8 @@ You may also see any lint errors in the console.
 Your app is ready to be reviwed!
 
 
-## Learn More
+## Expectations/Updates
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+This timer was created as a part of the React class, where it is based on JavaScript.
+Possible future changes: integration into other project; visualization updates; adding audio supply.
 
